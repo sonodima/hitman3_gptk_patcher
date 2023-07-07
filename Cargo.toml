@@ -1,5 +1,5 @@
 [package]
-name = "hitman3-gptk-patch"
+name = "h3_patcher"
 version = "0.1.0"
 edition = "2021"
 
