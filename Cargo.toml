@@ -1,0 +1,8 @@
+[package]
+name = "hitman3-gptk-patch"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.71"
+aobscan = "0.3.0"
